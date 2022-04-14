@@ -13,7 +13,6 @@ public class DefaultGradeQueryService implements GradeQueryService {
     Scores scores;
     Students studentRepository;
 
-    @Autowired
     public DefaultGradeQueryService(Scores scores, Students studentRepository) {
         this.scores = scores;
         this.studentRepository = studentRepository;
