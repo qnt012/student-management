@@ -1,0 +1,1407 @@
+21:30:27.015 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+21:30:27.037 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 19413501 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+019413501  100%  
+
+21:30:27.037 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+21:30:27.040 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2801200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002801200  100%  
+
+21:30:27.055 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+21:30:27.056 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 756500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000756500  100%  
+
+21:41:10.282 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+21:41:10.307 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 21272999 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+021272999  100%  
+
+21:41:10.307 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+21:41:10.310 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 3089900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+003089900  100%  
+
+21:41:10.312 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+21:41:10.312 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 46401 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000046401  100%  
+
+21:41:10.312 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+21:41:10.312 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 29899 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000029899  100%  
+
+21:41:10.312 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+21:41:10.312 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 27900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000027900  100%  
+
+21:41:10.319 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+21:41:10.320 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 926000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000926000  100%  
+
+21:41:10.320 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+21:41:10.320 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55999 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000055999  100%  
+
+21:41:37.888 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+21:41:37.901 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 9577301 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+009577301  100%  
+
+21:48:12.812 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+21:48:12.835 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 19689600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+019689600  100%  
+
+21:48:12.835 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+21:48:12.838 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 3214400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+003214400  100%  
+
+22:25:17.982 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+22:25:18.003 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 18406601 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+018406601  100%  
+
+22:25:18.005 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+22:25:18.008 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2730299 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002730299  100%  
+
+22:29:28.414 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+22:29:28.434 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 17696900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+017696900  100%  
+
+22:29:28.435 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+22:29:28.438 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 3588001 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+003588001  100%  
+
+22:29:28.452 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+22:29:28.453 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 365000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000365000  100%  
+
+22:30:24.941 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+22:30:24.963 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 18288700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+018288700  100%  
+
+22:30:24.963 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+22:30:24.966 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2886899 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002886899  100%  
+
+22:30:24.981 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+22:30:24.981 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 394301 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000394301  100%  
+
+22:30:34.938 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+22:30:34.960 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 18564500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+018564500  100%  
+
+22:30:34.961 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+22:30:34.964 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2905901 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002905901  100%  
+
+22:30:42.219 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+22:30:42.242 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 19701900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+019701900  100%  
+
+22:30:42.243 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+22:30:42.246 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2780901 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002780901  100%  
+
+22:30:48.894 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+22:30:48.916 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 18805900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+018805900  100%  
+
+22:30:48.918 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+22:30:48.920 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2688399 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002688399  100%  
+
+22:32:07.702 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+22:32:07.728 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 21957300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+021957300  100%  
+
+22:32:07.728 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+22:32:07.732 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 3999900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+003999900  100%  
+
+22:32:07.748 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+22:32:07.749 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 484300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000484300  100%
+
+09:24:07.137 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:24:07.332 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 180872800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+180872800  100%  
+
+09:24:07.338 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:24:07.349 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 10763200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+010763200  100%  
+
+09:24:07.432 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:24:07.436 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 3510400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+003510400  100%  
+
+09:24:07.437 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:24:07.439 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 997500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000997500  100%  
+
+09:35:46.543 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:35:46.575 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 26357700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+026357700  100%  
+
+09:35:46.575 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:35:46.583 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 7947100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+007947100  100%  
+
+09:35:46.621 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:35:46.624 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2397900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002397900  100%  
+
+09:38:50.966 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:38:51.029 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 56259000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+056259000  100%  
+
+09:38:51.029 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:38:51.044 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 14352200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+014352200  100%  
+
+09:38:51.075 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:38:51.076 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 826000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000826000  100%  
+
+09:40:15.615 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:40:15.637 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 15943500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+015943500  100%  
+
+09:40:31.594 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:40:31.677 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 74658400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+074658400  100%  
+
+09:40:31.677 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:40:31.684 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 6926900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+006926900  100%  
+
+09:40:31.728 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:40:31.730 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 840900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000840900  100%  
+
+09:50:36.108 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:50:36.193 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 78494400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+078494400  100%  
+
+09:50:36.193 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:50:36.200 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 6598400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+006598400  100%  
+
+09:50:36.215 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:50:36.217 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1550000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001550000  100%  
+
+09:51:00.666 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:51:00.729 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 57440500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+057440500  100%  
+
+09:51:00.729 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:51:00.741 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 11581100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011581100  100%  
+
+09:51:00.768 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:51:00.769 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 824100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000824100  100%  
+
+09:51:17.584 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:51:17.675 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 83410100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+083410100  100%  
+
+09:51:17.676 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:51:17.685 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 9351900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+009351900  100%  
+
+09:51:17.700 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:51:17.701 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 969900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000969900  100%  
+
+09:52:02.214 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:52:02.269 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 42263900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+042263900  100%  
+
+09:52:24.913 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:52:24.971 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 48945300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+048945300  100%  
+
+09:52:38.707 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:52:38.769 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55126300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+055126300  100%  
+
+09:52:38.769 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:52:38.782 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 12426400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+012426400  100%  
+
+09:52:38.822 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:52:38.824 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1774900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001774900  100%  
+
+09:53:21.439 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:53:21.502 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 51278100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+051278100  100%  
+
+09:54:39.787 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:54:39.844 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 47196100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+047196100  100%  
+
+09:54:39.845 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:54:39.857 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 11863900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011863900  100%  
+
+09:54:39.883 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:54:39.884 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 924300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000924300  100%  
+
+09:55:26.764 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:55:26.820 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 50653000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+050653000  100%  
+
+09:55:46.226 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:55:46.286 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 53364700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+053364700  100%  
+
+09:55:46.286 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:55:46.298 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 11192300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011192300  100%  
+
+09:55:46.326 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:55:46.327 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 819500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000819500  100%  
+
+09:55:56.405 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:55:56.468 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55722200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+055722200  100%  
+
+09:55:56.468 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:55:56.484 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 15132000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+015132000  100%  
+
+09:57:01.225 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:57:01.298 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 61289700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+061289700  100%  
+
+09:57:01.299 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:57:01.309 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 9496500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+009496500  100%  
+
+09:57:01.368 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:57:01.369 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 791900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000791900  100%  
+
+09:58:28.728 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:58:28.792 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 53305400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+053305400  100%  
+
+09:59:06.012 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+09:59:06.075 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 54433400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+054433400  100%  
+
+09:59:06.075 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+09:59:06.086 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 10614800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+010614800  100%  
+
+09:59:06.117 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+09:59:06.120 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1657600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001657600  100%  
+
+10:01:13.827 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:01:13.888 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 54634200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+054634200  100%  
+
+10:01:28.111 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:01:28.179 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 62768000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+062768000  100%  
+
+10:02:20.381 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:02:20.438 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 48150800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+048150800  100%  
+
+10:02:51.915 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:02:52.016 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 83247800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+083247800  100%  
+
+10:03:27.190 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:03:27.256 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 59058100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+059058100  100%  
+
+10:03:45.929 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:03:45.991 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55155000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+055155000  100%  
+
+10:04:04.777 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:04:04.843 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 54141300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+054141300  100%  
+
+10:08:48.417 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:08:48.484 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 54789000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+054789000  100%  
+
+10:08:48.484 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:08:48.502 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 17430900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+017430900  100%  
+
+10:08:48.532 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:08:48.533 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 974000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000974000  100%  
+
+10:21:53.893 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:21:53.992 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 90983900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+090983900  100%  
+
+10:21:53.993 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:21:54.000 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 6736800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+006736800  100%  
+
+10:21:54.009 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:21:54.010 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 945400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000945400  100%  
+
+10:26:27.503 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:26:27.568 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55517800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+055517800  100%  
+
+10:26:27.569 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:26:27.580 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 11341400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011341400  100%  
+
+10:26:27.618 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:26:27.620 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1232500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001232500  100%  
+
+10:34:12.156 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:34:12.287 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 121468300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+121468300  100%  
+
+10:34:12.291 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:34:12.297 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 7395300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+007395300  100%  
+
+10:34:12.362 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:34:12.371 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 8595900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+008595900  100%  
+
+10:34:12.372 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:34:12.373 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 806500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000806500  100%  
+
+10:53:03.413 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:53:03.506 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 81823700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+081823700  100%  
+
+10:53:03.510 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:53:03.518 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 7848000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+007848000  100%  
+
+10:53:03.564 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:53:03.568 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 4370900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+004370900  100%  
+
+10:53:03.569 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:53:03.573 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 4301400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+004301400  100%  
+
+10:53:13.530 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:53:13.590 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 49256900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+049256900  100%  
+
+10:53:13.590 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:53:13.608 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 16957300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+016957300  100%  
+
+10:53:13.650 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:53:13.652 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1066000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001066000  100%  
+
+10:54:09.524 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:54:09.610 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 78609700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+078609700  100%  
+
+10:54:09.610 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:54:09.627 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 16503400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+016503400  100%  
+
+10:54:09.702 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:54:09.703 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 979500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000979500  100%  
+
+10:54:19.836 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:54:19.894 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 46663100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+046663100  100%  
+
+10:54:19.894 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:54:19.914 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 19538200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+019538200  100%  
+
+10:54:19.940 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:54:19.941 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 959500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000959500  100%  
+
+10:56:02.296 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+10:56:02.371 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 67011200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+067011200  100%  
+
+10:56:02.371 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+10:56:02.387 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 15711900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+015711900  100%  
+
+10:56:02.427 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+10:56:02.429 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 951400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000951400  100%  
+
+11:02:22.393 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:02:22.444 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 41620300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+041620300  100%  
+
+11:02:22.445 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:02:22.460 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 14761300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+014761300  100%  
+
+11:02:22.487 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:02:22.488 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 828600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000828600  100%  
+
+11:02:56.430 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:02:56.489 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 50280100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+050280100  100%  
+
+11:03:50.435 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:03:50.507 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 65397000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+065397000  100%  
+
+11:03:50.508 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:03:50.521 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 12619000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+012619000  100%  
+
+11:03:50.550 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:03:50.551 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 902000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000902000  100%  
+
+11:04:23.211 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:04:23.269 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 52221300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+052221300  100%  
+
+11:04:23.269 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:04:23.281 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 11076100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011076100  100%  
+
+11:04:23.318 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:04:23.319 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 904900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000904900  100%  
+
+11:04:38.775 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:04:38.849 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 67885900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+067885900  100%  
+
+11:04:38.850 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:04:38.862 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 11592800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011592800  100%  
+
+11:04:38.900 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:04:38.901 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1122900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001122900  100%  
+
+11:04:52.601 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:04:52.674 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 60099900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+060099900  100%  
+
+11:08:14.816 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:08:14.888 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 64468000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+064468000  100%  
+
+11:08:14.888 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:08:14.901 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 12652000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+012652000  100%  
+
+11:08:14.932 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:08:14.934 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 856600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000856600  100%  
+
+11:15:55.255 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:15:55.322 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55663700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+055663700  100%  
+
+11:15:55.322 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:15:55.333 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 9933500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+009933500  100%  
+
+11:15:55.367 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:15:55.369 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 979400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000979400  100%  
+
+11:39:20.195 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:39:20.303 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 94711200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+094711200  100%  
+
+11:39:20.307 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+11:39:20.316 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 8688500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+008688500  100%  
+
+11:39:20.322 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+11:39:20.323 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 151000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000151000  100%  
+
+11:39:20.323 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+11:39:20.323 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 82200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000082200  100%  
+
+11:39:20.323 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+11:39:20.324 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 103000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000103000  100%  
+
+11:39:20.348 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:39:20.351 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 2556300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+002556300  100%  
+
+11:39:20.352 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+11:39:20.353 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 135100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000135100  100%  
+
+11:51:18.289 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:51:18.352 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55402500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+055402500  100%  
+
+11:51:18.352 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:51:18.368 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 16012700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+016012700  100%  
+
+11:51:18.398 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:51:18.399 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 989900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000989900  100%  
+
+11:52:02.473 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:52:02.553 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 70266400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+070266400  100%  
+
+11:52:02.554 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:52:02.561 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 7197800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+007197800  100%  
+
+11:52:02.593 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:52:02.594 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 882200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000882200  100%  
+
+11:55:25.621 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+11:55:25.706 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 70861500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+070861500  100%  
+
+11:55:25.707 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+11:55:25.716 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 9576800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+009576800  100%  
+
+11:55:25.766 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+11:55:25.767 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 998700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000998700  100%  
+
+12:44:21.910 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+12:44:21.990 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 71868200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+071868200  100%  
+
+12:44:21.991 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+12:44:22.003 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 11984100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+011984100  100%  
+
+12:46:07.077 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+12:46:07.142 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 57400100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+057400100  100%  
+
+12:46:07.144 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+12:46:07.153 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 8899300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+008899300  100%  
+
+12:46:07.189 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+12:46:07.190 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 827400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000827400  100%  
+
+12:48:16.721 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+12:48:16.772 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 43118900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+043118900  100%  
+
+12:48:48.776 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+12:48:48.821 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 37475500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+037475500  100%  
+
+12:48:48.821 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+12:48:48.830 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 8690400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+008690400  100%  
+
+12:48:48.942 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+12:48:48.943 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 932000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000932000  100%  
+
+12:57:32.508 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+12:57:32.569 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 55136900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+055136900  100%  
+
+12:57:32.570 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+12:57:32.578 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 8135700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+008135700  100%  
+
+12:57:32.622 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+12:57:32.623 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1196900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001196900  100%  
+
+13:08:41.857 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:08:41.910 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 42371500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+042371500  100%  
+
+13:08:41.910 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:08:41.917 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 6491500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+006491500  100%  
+
+13:08:41.924 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:08:41.926 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1316900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001316900  100%  
+
+13:08:41.926 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:08:41.927 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 392000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000392000  100%  
+
+13:08:41.928 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:08:41.929 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 493000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000493000  100%  
+
+13:08:41.959 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+13:08:41.959 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 127800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000127800  100%  
+
+13:11:36.932 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:11:37.026 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 82233100 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+082233100  100%  
+
+13:11:37.026 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:11:37.035 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 8362500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+008362500  100%  
+
+13:11:37.107 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:11:37.108 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 370200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000370200  100%  
+
+13:11:37.138 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+13:11:37.138 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 166200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000166200  100%  
+
+13:12:08.744 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+13:12:08.849 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 96027600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+096027600  100%  
+
+13:12:33.891 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:12:34.007 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 88834200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+088834200  100%  
+
+13:12:34.007 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:12:34.018 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 10685200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+010685200  100%  
+
+13:12:34.064 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:12:34.065 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 142700 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000142700  100%  
+
+13:12:34.076 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+13:12:34.077 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 122300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000122300  100%  
+
+13:12:52.419 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:12:52.478 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 49382900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+049382900  100%  
+
+13:12:52.478 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:12:52.488 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 10294800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+010294800  100%  
+
+13:12:52.525 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:12:52.526 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 355000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000355000  100%  
+
+13:12:52.539 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+13:12:52.539 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 131300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000131300  100%  
+
+13:14:00.667 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:14:00.717 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 40591600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+040591600  100%  
+
+13:14:00.718 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+13:14:00.725 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 7087800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+007087800  100%  
+
+13:14:00.755 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+13:14:00.756 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 185400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000185400  100%  
+
+13:17:58.107 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:17:58.183 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 61843600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+061843600  100%  
+
+13:17:58.183 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:17:58.193 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 9318900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+009318900  100%  
+
+13:17:58.218 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:17:58.218 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 108300 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000108300  100%  
+
+13:17:58.225 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+13:17:58.225 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 150400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000150400  100%  
+
+13:20:18.885 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:20:18.954 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 58886000 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+058886000  100%  
+
+13:20:18.954 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+13:20:18.970 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 15803900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+015803900  100%  
+
+13:25:12.184 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+13:25:12.281 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 85205600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+085205600  100%  
+
+13:25:12.281 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+13:25:12.300 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 18158400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+018158400  100%  
+
+13:25:12.361 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+13:25:12.362 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 221600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000221600  100%  
+
+14:17:42.858 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+14:17:42.955 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 88485900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+088485900  100%  
+
+14:17:42.955 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+14:17:42.964 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 8420500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+008420500  100%  
+
+14:17:43.066 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+14:17:43.068 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 1433500 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+001433500  100%  
+
+14:18:46.558 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+14:18:46.700 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 132564900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+132564900  100%  
+
+14:18:46.701 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+14:18:46.708 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 7633900 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+007633900  100%  
+
+14:18:46.747 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - List com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentName(String)
+14:18:46.748 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 448200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000448200  100%  
+
+14:18:46.754 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+14:18:46.755 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 148200 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000148200  100%  
+
+14:18:46.882 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Score com.nhnacademy.edu.springframework.project.service.DefaultGradeQueryService.getScoreByStudentSeq(int)
+14:18:46.882 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 186800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000186800  100%  
+
+14:18:51.550 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - void com.nhnacademy.edu.springframework.project.service.CsvDataLoadService.loadAndMerge()
+14:18:51.618 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 52206800 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+052206800  100%  
+
+14:18:51.618 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getPassedStudents()
+14:18:51.645 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 26851600 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+026851600  100%  
+
+14:18:51.678 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - Collection com.nhnacademy.edu.springframework.project.service.DefaultStudentService.getStudentsOrderByScore()
+14:18:51.678 [main] INFO  c.n.e.s.project.aspect.LoggingAspect - StopWatch '': running time = 218400 ns
+---------------------------------------------
+ns         %     Task name
+---------------------------------------------
+000218400  100%  
+
